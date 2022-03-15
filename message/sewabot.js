@@ -3,15 +3,32 @@ exports.dada = (prefix, settings, pushname, ucapanWaktu) => {
 return `${ucapanWaktu} kak ${pushname}
 Berikut adalah list harga untuk sewa botz
 
-*╭─▸*「 𝗟𝗜𝗦𝗧 𝗦𝗘𝗪𝗔 」
-*┴*
-*│▸* 1 hari = free
-*│▸* 2 hari = Rp 2000         
-*│▸* 7 hari = Rp 5000          
-*│▸* 14 hari = Rp 10000         
-*│▸* 30 hari = Rp 20000                                           
-*┬*
-*╰────────────[*
+*BOT ON 24 JAM & BISA BUAT PRICELIST*
+╭──「 *_SEWA BOT_* 」
+│❏  1 MINGGU : RM 5
+│❏  1 BULAN : RM 10
+│❏   PERMANEN : -
+╰────
+╭─[ *_KELEBIHAN BOT_*]
+│❏  ＯＮ 24 ＪＡＭ
+│❏  BISA BUAT STICK DLL
+│❏  FITUR BANYAK
+╰────
+╭─[ *_KEUNTUNGAN_* ]
+│❏  ANTI LINK ( AUTO KICK )
+│❏  ANTI VIRTEX ( AUTO KICK )
+│❏  WELCOME ( OTOMATIS )
+│❏  DAN RATUSAN FITUR LAINYA
+╰────
+╭─[ *MINAT CHAT* ]
+│❏  🪀 wa.me/601123550412
+╰────
+╭─[ *PAYMENT* ]
+│❏  DIGI
+│❏  MAXIS
+╰────
+
+*_DI JAMIN ANTI DELAY & ON 24 JAM_*
 
 *╭─▸*「 𝗣𝗔𝗬𝗠𝗘𝗡𝗧 」
 *┴*
